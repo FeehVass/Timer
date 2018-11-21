@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    background-color: black;
+    border: solid 1vw rgb(97, 112, 248);
+}
+
+#timer{
+    font-size: 200px;
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    color: rgb(238, 13, 99);
+    align-items: center;
+    flex-direction: column;
+    margin: 14vw;
+}
